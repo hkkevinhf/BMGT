@@ -1,2 +1,2 @@
 # BMGT
-This project will provide the code and results for 'Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images'.
+This project will provide the code and results for "Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images" (International Journal of Remote Sensing, 2023).
